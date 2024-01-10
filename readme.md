@@ -17,3 +17,5 @@ La aplicación web está diseñada para permitir a los usuarios seleccionar ingr
 Este resumen resume las principales características de tu aplicación, centrándose en la interacción del usuario con la interfaz de usuario y la manipulación del DOM con JavaScript. Si hay alguna área específica en la que necesitas más ayuda o alguna mejora que desees implementar, por favor, avísame.
 
 <a href= "https://www.youtube.com/watch?v=koiPxFFiqJ4&t=2685s">Proyecto Toppings de Pizza</a>
+
+![toppings-pizza](https://github.com/Luiso-o/Toppings_de_pizza/assets/128043647/e74b7255-d312-46c4-b4cb-6cd2c37340ec)
